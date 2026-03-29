@@ -1,9 +1,9 @@
 # Digital Literacy Project
 # Student Details
 
-Name: Devendra- Tripathi
-Reg No: 25MIM10010
-Branch: Integrated M.Tech in AI
+Name: Devendra- Tripathi,
+Reg No: 25MIM10010,
+Branch: Integrated M.Tech in AI,
 Year: 1st Year
 
 ## Overview
